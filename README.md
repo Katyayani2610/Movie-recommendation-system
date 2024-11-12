@@ -1,2 +1,3 @@
-# Movie-recommendation-system
-Create a movie recommendation system using collaborative filtering or content-based filtering. You can use the Movie Lense dataset for this project.
+# movie-suggestions
+Explore and compare different state-of-the-art methods to implement a movie recommendation System using the [MovieLens dataset](https://grouplens.org/datasets/movielens/).
+
